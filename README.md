@@ -1,4 +1,6 @@
-# Oakville Dynamics FRC Robot Template
+# Oakville Dynamics BOaRD
+
+Basic Operation and Robotics Developer kit
 
 ## Build Status
 
@@ -8,6 +10,12 @@
 | Qodana   | [![Qodana](https://github.com/OakvilleDynamics/frc-robot-template/actions/workflows/qodana.yml/badge.svg)](https://github.com/OakvilleDynamics/frc-robot-template/actions/workflows/qodana.yml)                   |
 | CodeQL   | [![CodeQL Scanning](https://github.com/OakvilleDynamics/frc-robot-template/actions/workflows/codeql.yml/badge.svg)](https://github.com/OakvilleDynamics/frc-robot-template/actions/workflows/codeql.yml)          |
 | Spotless | [![Syntax Check](https://github.com/OakvilleDynamics/frc-robot-template/actions/workflows/syntax-check.yml/badge.svg)](https://github.com/OakvilleDynamics/frc-robot-template/actions/workflows/syntax-check.yml) |
+
+## What is this repository for?
+
+This repository is used for anyone who wants to get into the ins and outs of FRC robotics programming to start playing around with code and use our already existing developer board.
+
+This can also be used for prototyping, rapid development, or other important tasks.
 
 ## How to use
 
